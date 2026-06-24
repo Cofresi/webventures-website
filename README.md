@@ -1,6 +1,6 @@
 # Web Ventures GmbH Static Website
 
-A lightweight one-page static website for Web Ventures GmbH, built with plain HTML, CSS and minimal vanilla JavaScript. It is designed to run locally by opening `index.html` and to deploy directly to GitHub Pages.
+A lightweight one-page static website for [Web Ventures GmbH](https://webventures.ch), built with plain HTML, CSS and minimal vanilla JavaScript. It is designed to run locally by opening `index.html` and to deploy directly to GitHub Pages.
 
 ## Preview Locally
 
